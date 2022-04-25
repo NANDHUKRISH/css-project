@@ -1,0 +1,180 @@
+.header{
+    background-color: rgb(219, 73, 19);
+    width:100%;
+    height:100px;
+    display:flex;
+
+}
+body{
+    border:2px solid black;
+    margin:0;
+    fontfamily: "Helvetica Neune, helvetica-sans-serif";
+}
+.logo{
+   width:45%; 
+  padding: 30px;
+ 
+}
+.login{
+    width:35%;
+   padding-right: 40px;
+}
+.img{
+    width:20%;
+    height:100px;
+}
+.symbol{ width:100%;
+    height:100px;
+
+}
+.logo-text{
+ color: white;
+font-size: 25px;
+font-weight: bold;
+text-decoration: none;
+font-family: "Helvetica Neune, helvetica-sans-serif";
+text-shadow: 1px 1px 5px black;
+}
+.right{
+   color:white; 
+   font-size: 15px;
+
+}
+.login-controls{
+    padding-top: 16px;
+padding-left: 187px;
+}
+#fpas{
+    color:pinkred;
+    font-size:15px;
+    text-decoration: none;
+
+}
+.sub-but{
+    background-color:yellowgreen;
+    color:white;
+    height:20px;
+    border-color:orange ;
+    cursor:pointer;
+
+}
+.sub-but:hover{
+    background-color:yellow;
+    color:black;
+}
+
+
+.mainbody{
+    width:100%;
+    height:510px;
+    display:flex;
+    background: rgb(210, 21, 49);
+background: linear-gradient(90deg, rgb(185, 42, 66) 0%, rgba(222, 222, 25, 0.953) 44%, rgba(252,176,69,0.9587185215883228) 100%);
+padding:10px;
+}
+.leftsession{ 
+width:35%;
+}
+.rightsession{
+    width:35%;
+   
+}
+.top-coment{
+    color:silver;
+    text-shadow: 1px 1px 2px black;
+    padding-left: 50px;
+}
+.imge{
+    width:375px;
+    height:350px;
+    padding-left: 75px ;
+}
+.bottom-comment1{
+    padding-left: 60px;
+    padding-top: 0px;
+}
+.bottom-comment2{
+   padding-left: 100px;
+   padding-bottom: 0px
+}
+.middlesession{
+    width:30%;
+}
+.mid1{
+    padding:30px;
+    color:darkcyan;
+}
+.mid2{
+    padding:30px;
+    color:antiquewhite;
+}
+.mid3{
+    padding:30px;
+    color:antiquewhite;
+}
+.mid4{
+    padding:30px;
+    color:antiquewhite;
+}
+.rtop-head{
+    text-align:center;
+    color:gray;
+    border-bottom:2PX SOLID blue;
+}
+.rtop-head2{
+   text-align:center;
+}
+.P1-1{
+PADDING:5px;
+COLOR:BROWN;
+}
+.P1-2{
+    PADDING:5px;
+    COLOR:BROWN;
+}
+.P1-3{
+    PADDING:5px;
+    COLOR:BROWN;
+}
+.P1-4{
+    PADDING:5px;
+    COLOR:BROWN;
+}
+.P1-5{
+    PADDING:5px;
+    COLOR:BROWN;
+}
+.P1-6{
+    PADDING:5px;
+    COLOR:BROWN;
+}
+.P1-7{
+    PADDING:5px;
+    COLOR:BROWN;
+}
+.P1-8{
+    PADDING:5px;
+    COLOR:BROWN;
+}
+.P1-9{
+    PADDING:5px;
+    COLOR:BROWN;
+}
+.P1-10{
+    PADDING:5px;
+    color:white;
+    height:20px;
+    border-color:orange ;
+    cursor:pointer;
+}
+.BOTTOM{
+background-color: rgb(219, 73, 19);
+WIDTH:100%;
+HEIGHT:80PX;
+}
+.BOT-TEXT{
+    PADDING:20px;
+     TEXT-ALIGN:center;
+FONT-SIZE:30PX;
+word-spacing: 2PX;
+}
